@@ -59,7 +59,7 @@ Robustness under noise
 | Extended YaleB | L2-Norm MUR     | 0.1396 | 0.1796 |
 | Extended YaleB | L2,1-Norm       | 0.0861 | 0.0746 |
 
-> 📌 See `results/` directory and report for full visual comparisons.
+> 📌 See `results.md` and report for full visual comparisons.
 
 ---
 
@@ -69,6 +69,16 @@ Robustness under noise
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/NMF-Robustness.git
-cd NMF-Robustness/code
+cd NMF-Robustness/code  
+```
+
+---
+
+## ⚠️ Academic Integrity Notice
+
+This repository contains code written for educational purposes.  
+
+Please **do not copy** or reuse this work for academic submission in any course, as this may violate university academic honesty policies.  
+You are welcome to use it as reference for personal learning, but not for plagiarism.
 
 
