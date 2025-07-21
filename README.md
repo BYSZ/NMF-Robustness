@@ -1,7 +1,7 @@
 # 🧠 NMF Robustness Evaluation on Face Datasets
 ## 🧾 Project Description
 
-This project implements and compares the robustness of two Non-negative Matrix Factorization (NMF) algorithms on face image datasets (ORL and Extended YaleB). The focus is on performance under Gaussian noise corruption.  
+This group project implements and compares the robustness of two Non-negative Matrix Factorization (NMF) algorithms on face image datasets (ORL and Extended YaleB). The focus is on performance under Gaussian noise corruption.  
 
 Implemented Algorithms  
 L2-Norm Multiplicative Update Rule (MUR) NMF  
